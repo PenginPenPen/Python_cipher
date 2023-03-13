@@ -6,4 +6,4 @@
 #         key_position= komoji.index(key)
 #     for text in texts:
 #         text_position= komoji.index(text)
-#わからん
+#むずい
