@@ -1,4 +1,4 @@
 # Python
 
-pythonの問題の解答など
+pythonの問題の解答置き場
 
