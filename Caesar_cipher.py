@@ -7,3 +7,4 @@ for i in text:
         print(komoji[(position + int(key)) % len(komoji)], end='')
     else:
         print(i, end='')
+#こんちくは
